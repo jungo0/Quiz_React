@@ -172,7 +172,7 @@ header h1 {
 }
 
 .answer button.wrong {
-  background: #e3508b;
+  background: rgb(218, 59, 59);
   color: #2c203d;
 }
 
