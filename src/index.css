@@ -97,17 +97,17 @@ header h1 {
   width: 50%;
   height: 0.5rem;
   border-radius: 24px;
-  background: #9e5ef8;
+  background: #675d50;
   margin: 0;
 }
 
 #question progress::-webkit-progress-bar {
-  background: #6a558a;
+  background: #675d50;
   border-radius: 24px;
 }
 
 #question progress::-webkit-progress-value {
-  background: #9e5ef8;
+  background: #908371;
   border-radius: 24px;
 }
 
@@ -117,10 +117,6 @@ header h1 {
 
 #question progress.answered::-webkit-progress-value {
   background: #f8e59c;
-}
-
-#question progress.answered::-webkit-progress-bar {
-  background: #6a558a;
 }
 
 #question h2 {

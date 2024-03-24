@@ -33,10 +33,10 @@ export default [
     id: "q4",
     text: "React 컴포넌트의 생명주기 메서드 중 사용자 인터페이스를 업데이트하기 전에 호출되는 메서드는 무엇입니까?",
     answers: [
-      "componentWillUpdate",
-      "componentDidMount",
-      "componentWillMount",
-      "componentDidUpdate",
+      "업데이트 직전에 호출됩니다.",
+      "마운트된 직후에 호출됩니다.",
+      "마운트되기 전에 호출됩니다.",
+      "업데이트가 반영된 후에 호출됩니다.",
     ],
   },
   {
